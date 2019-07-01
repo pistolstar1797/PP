@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513322940 source:c:\users\pistolstar\desktop\snu\수업자료\1-2\프연\실습\pp2017\pp2017\1102(9주차)\task3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
